@@ -1,0 +1,60 @@
+# Build settings
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+#paginate: 3
+#paginate_path: "/blog/page/:num/"
+#comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: Thorsten Tarrach
+description: "Personal Homepage"
+keywords: "Thorsten, Tarrach, IST, Austria"
+url: http://thorstent.github.io
+baseurl: ""
+# baseurl: ""
+
+# google_analytics: UA-52446115-1
+#repo: http://github.com/nandomoreirame/end2end
+#disqus_shortname: "fernandomoreira"
+#disqus_site_shortname: "fernandomoreira"
+
+# Author settings
+author:
+  name      : Thorsten Tarrach
+  employer  : Institute of Science and Technology, Austria
+  job       : "PhD Student"
+  thumb     : /images/ttarrach.jpg
+  email     : thorstent(AT)live.com
+#  url       : http://nandomoreira.me
+  github    : https://github.com/thorstent
+  xing      : https://www.xing.com/profile/Thorsten_Tarrach
+  facebook  : https://facebook.com/thorsten.tarrach
+  linkedin  : https://linkedin.com/in/ttarrach
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+  
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: theses
+    title: Theses
+  - slug: publications
+    title: Publications
+  
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
