@@ -27,7 +27,7 @@ Pavol Černý, Thomas A. Henzinger, Arjun Radhakrishna, Leonid Ryzhyk and Thorst
 The original publication is available at [www.springerlink.com](http://link.springer.com/chapter/10.1007%2F978-3-319-08867-9_38).
 
 Pavol Černý, Thomas A. Henzinger, Arjun Radhakrishna, Leonid Ryzhyk and Thorsten Tarrach  
-**Efficient Synthesis of Concurrency by Semantics-Preserving Transformations**
+**Efficient Synthesis of Concurrency by Semantics-Preserving Transformations**  
 *Computer Aided Verification, 2013*  
 [PDF](2013cav-semantics_preserving_transformations.pdf)  
 The original publication is available at [www.springerlink.com](http://link.springer.com/chapter/10.1007/978-3-642-39799-8_68).

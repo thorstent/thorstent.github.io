@@ -32,7 +32,7 @@ author:
   employer  : Institute of Science and Technology, Austria
   job       : "PhD Student"
   thumb     : /images/ttarrach.jpg
-  email     : thorstent(AT)live.com
+  email     : thorstent@live.com
 #  url       : http://nandomoreira.me
   github    : https://github.com/thorstent
   xing      : https://www.xing.com/profile/Thorsten_Tarrach
@@ -49,12 +49,14 @@ defaults:
   
 # navbar pages
 navbar:
-  - slug: about
-    title: About
+  - slug: about_me
+    title: About Me
   - slug: theses
     title: Theses
   - slug: publications
     title: Publications
+  - slug: projects
+    title: Projects
   
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

@@ -6,16 +6,17 @@ layout: home
 
   <div class="hero-inner container">
 
-    <img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" >
+    <img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb"  class="dot">
     <h1>{{ site.author.name }}</h1>
     <h3>{{ site.author.job }}</h3>
     <h3><em>{{ site.author.employer }}</em></h3>
 
-    <a href="{{ '/about' | prepend: site.baseurl }}" class="btn btn-ghost">about</a>
+    <a href="{{ '/about_me' | prepend: site.baseurl }}" class="btn btn-ghost">about me</a>
     <a href="{{ '/theses' | prepend: site.baseurl }}" class="btn btn-ghost">theses</a>
     <a href="{{ '/publications' | prepend: site.baseurl }}" class="btn btn-ghost">publications</a>
+    <a href="{{ '/projects' | prepend: site.baseurl }}" class="btn btn-ghost">projects</a>
 
-    {% include social.html %}
+    {% include footer.html %}
 
   </div>
 
