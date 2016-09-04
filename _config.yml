@@ -16,7 +16,7 @@ sass:
 # SEO settings
 title: Thorsten Tarrach
 description: "Personal Homepage"
-keywords: "Thorsten, Tarrach, IST, Austria"
+keywords: "Thorsten, Tarrach, AIT, Austria"
 url: http://thorstent.github.io
 baseurl: ""
 # baseurl: ""
@@ -29,8 +29,8 @@ baseurl: ""
 # Author settings
 author:
   name      : Thorsten Tarrach
-  employer  : Institute of Science and Technology, Austria
-  job       : "PhD Student"
+  employer  : AIT Austrian Institute of Technology
+  job       : "Research Engineer"
   thumb     : /images/ttarrach.jpg
   email     : thorstent@live.com
 #  url       : http://nandomoreira.me
