@@ -6,6 +6,14 @@ Publications
 
 [My DBLP](http://dblp.uni-trier.de/pers/hd/t/Tarrach:Thorsten)
 
+Journals
+--------
+
+Pavol Černý, Edmund M. Clarke, Thomas A. Henzinger, Arjun Radhakrishna, Leonid Ryzhyk, Roopsha Samanta and Thorsten Tarrach   
+**From Non-preemptive to Preemptive Scheduling using Synchronization Synthesis**   
+*Formel Methods in System Design (2016)*   
+[Open-access](http://link.springer.com/article/10.1007%2Fs10703-016-0256-5)
+
 Conferences
 -----------
 
