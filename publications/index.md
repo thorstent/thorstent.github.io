@@ -18,9 +18,9 @@ Conferences
 -----------
 
 Andreas Fellner, Willibald Krenn, Rupert Schlick, Thorsten Tarrach and Georg Weissenbacher   
-**Model-based, mutation-driven test case generation via heuristic-guided branching search **  
+**Model-based, mutation-driven test case generation via heuristic-guided branching search**  
 *MEMOCODE, 2017*  
-[PDF](2017memocode-mutation-heuristics.pdf).
+[PDF](2017memocode-mutation-heuristics.pdf)
 
 Pavol Černý, Edmund M. Clarke, Thomas A. Henzinger, Arjun Radhakrishna, Leonid Ryzhyk, Roopsha Samanta and Thorsten Tarrach   
 **From Non-preemptive to Preemptive Scheduling using Synchronization Synthesis**  
