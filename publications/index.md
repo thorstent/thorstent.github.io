@@ -11,11 +11,16 @@ Journals
 
 Pavol Černý, Edmund M. Clarke, Thomas A. Henzinger, Arjun Radhakrishna, Leonid Ryzhyk, Roopsha Samanta and Thorsten Tarrach   
 **From Non-preemptive to Preemptive Scheduling using Synchronization Synthesis**   
-*Formel Methods in System Design (2016)*   
+*Formel Methods in System Design (June 2017, Volume 50, Issue 2–3, pp 97–139)*   
 [Open-access](http://link.springer.com/article/10.1007%2Fs10703-016-0256-5)
 
 Conferences
 -----------
+
+Andreas Fellner, Willibald Krenn, Rupert Schlick, Thorsten Tarrach and Georg Weissenbacher   
+**Model-based, mutation-driven test case generation via heuristic-guided branching search **  
+*MEMOCODE, 2017*  
+[PDF](2017memocode-mutation-heuristics.pdf).
 
 Pavol Černý, Edmund M. Clarke, Thomas A. Henzinger, Arjun Radhakrishna, Leonid Ryzhyk, Roopsha Samanta and Thorsten Tarrach   
 **From Non-preemptive to Preemptive Scheduling using Synchronization Synthesis**  
@@ -26,7 +31,8 @@ The original publication is available at [www.springerlink.com](http://link.spri
 Ashutosh Gupta, Thomas A. Henzinger, Arjun Radhakrishna, Roopsha Samanta and Thorsten Tarrach  
 **Succinct Representation of Concurrent Trace Sets**  
 *Principles of Programming Languages, 2014*  
-[PDF](2015popl-succinct-trace-sets.pdf)
+[PDF](2015popl-succinct-trace-sets.pdf)   
+The original publication is available at the [ACM Digital Library](https://dl.acm.org/citation.cfm?id=2677008).
 
 Pavol Černý, Thomas A. Henzinger, Arjun Radhakrishna, Leonid Ryzhyk and Thorsten Tarrach  
 **Regression-free Synthesis for Concurrency**  
