@@ -10,13 +10,13 @@ Journals
 --------
 
 Andreas Fellner, Willibald Krenn, Rupert Schlick, Thorsten Tarrach and Georg Weissenbacher   
-**Model-based, mutation-driven test case generation via heuristic-guided branching search**
-*ACM Transactions on Embedded Computing Systems (February 2019, Volume 18, Issue 1)*
+**Model-based, mutation-driven test case generation via heuristic-guided branching search**   
+*ACM Transactions on Embedded Computing Systems (February 2019, Volume 18, Issue 1)*   
 [Open-access](https://dl.acm.org/citation.cfm?doid=3305158.3289256)
 
 Pavol Černý, Edmund M. Clarke, Thomas A. Henzinger, Arjun Radhakrishna, Leonid Ryzhyk, Roopsha Samanta and Thorsten Tarrach   
-**From Non-preemptive to Preemptive Scheduling using Synchronization Synthesis**
-*Formel Methods in System Design (June 2017, Volume 50, Issue 2–3, pp 97–139)*
+**From Non-preemptive to Preemptive Scheduling using Synchronization Synthesis**   
+*Formel Methods in System Design (June 2017, Volume 50, Issue 2–3, pp 97–139)*   
 [Open-access](http://link.springer.com/article/10.1007%2Fs10703-016-0256-5)
 
 Conferences
