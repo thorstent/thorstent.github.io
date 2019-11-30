@@ -22,6 +22,18 @@ Pavol Černý, Edmund M. Clarke, Thomas A. Henzinger, Arjun Radhakrishna, Leonid
 Conferences
 -----------
 
+Dorottya Papp, Thorsten Tarrach and Levente Buttyán  
+**Towards Detecting Trigger-based Behavior In Binaries: Uncovering the Correct Environment**  
+*SEFM, 2019*  
+[PDF](2019sefm-towards-trigger-based-behavior.pdf)  
+The original publication is available at [www.springerlink.com](https://link.springer.com/chapter/10.1007%2F978-3-030-30446-1_26).
+
+Otto Brechelmacher, Willibald Krenn, Thorsten Tarrach  
+**A Vision For Enhancing Security Of Cryptography In Executables**  
+*ESSoS, 2018*  
+[PDF](2018essos-a vision-for-enhancing-security-of-cryptography-in-executables.pdf)  
+The original publication is available at [www.springerlink.com](https://link.springer.com/chapter/10.1007%2F978-3-319-94496-8_1).
+
 Andreas Fellner, Willibald Krenn, Rupert Schlick, Thorsten Tarrach and Georg Weissenbacher   
 **Model-based, mutation-driven test case generation via heuristic-guided branching search**  
 *MEMOCODE, 2017*  
@@ -59,6 +71,11 @@ The original publication is available at [www.springerlink.com](http://link.spri
 
 Workshop papers
 ---------------
+
+Rupert Schlick and Thorsten Tarrach  
+**Mutation-based test-case generation for Event-B**  
+*Rodin Workshop 2018*  
+[PDF](2018rodin-workshop-mutation-tcg.pdf)
 
 Michael Backes, Cătălin Hrițcu and Thorsten Tarrach  
 **Automatically Verifying Typing Constraints for a Data Processing Language**  
