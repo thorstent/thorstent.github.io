@@ -22,6 +22,12 @@ Pavol Černý, Edmund M. Clarke, Thomas A. Henzinger, Arjun Radhakrishna, Leonid
 Conferences
 -----------
 
+Andreas Fellner, Thorsten Tarrach and Georg Weissenbacher   
+**Language Inclusion for Finite Prime Event Structures**  
+*VMCAI, 2020*  
+[PDF](2020vmcai-language_inclusion.pdf)  
+The original publication is available at [www.springerlink.com](https://link.springer.com/chapter/10.1007%2F978-3-030-39322-9_15).
+
 Dorottya Papp, Thorsten Tarrach and Levente Buttyán  
 **Towards Detecting Trigger-based Behavior In Binaries: Uncovering the Correct Environment**  
 *SEFM, 2019*  
